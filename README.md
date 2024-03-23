@@ -1,2 +1,13 @@
 # Connect
-Connect is a real-time messaging web application designed to facilitate instant communication between users. Inspired by popular messaging platforms, it offers features such as real-time messaging using Socket.io, multimedia support for attachments, and efficient member management functionalities.
+Connect is a real-time messaging web application that I developed, inspired by popular messaging platforms. Leveraging the power of Socket.io, it offers instant communication between users with real-time message updates. This project aims to provide a seamless and efficient messaging experience.
+
+Key Features:
+Real-time Messaging: Utilizing Socket.io, Connect enables users to exchange messages instantly.
+Multimedia Support: Users can send attachments such as images, videos, and documents to enhance their conversations.
+Member Management: Connect allows users to manage their contacts and group memberships efficiently.
+Robust Authentication: Authentication is handled securely using Clerk, ensuring user data remains protected.
+Visually Appealing UI: The UI is designed using TailwindCSS and ShadcnUI, providing a visually pleasing and intuitive user experience.
+Database Management: Prisma ORM with MySQL is employed for efficient database management, ensuring data integrity and scalability.
+Seamless Communication Channels: Connect offers text, audio, and video call channels, allowing users to communicate seamlessly in various formats.
+Light/Dark Mode Options: Users can personalize their experience by choosing between light and dark mode themes.
+Connect aims to provide users with a modern and feature-rich messaging platform, facilitating effective communication across text, audio, and video channels. With its robust features and user-friendly interface, it strives to offer an immersive messaging experience for users.
